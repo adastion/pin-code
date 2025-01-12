@@ -42,9 +42,6 @@ body {
     background-color: rgb(172, 238, 238);
     color: rgb(21, 21, 229);
   }
-
-  & + * {
-  }
 }
 
 .keyboard {
